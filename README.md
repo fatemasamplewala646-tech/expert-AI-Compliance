@@ -3,10 +3,10 @@
 Welcome — this repository contains projects and artifacts demonstrating practical AI governance, compliance, and model risk work.
 
 ## About me
-- Name: [Your name]
+- Name: Fatema Samplewala
 - Role: Aspiring / Practicing AI Compliance Officer
 - Focus areas: model governance, privacy & PIA, bias audits, incident response, monitoring & CI for compliance
-- Contact: [your-email@example.com] — LinkedIn: [link]
+- Contact: Samplewalafatema@gmail.com — LinkedIn: [link]
 
 ## Quick guide
 This repo is organized as follows:
